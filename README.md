@@ -207,5 +207,3 @@ EXPERIMENT COMPLETED SUCCESSFULLY
 The prompts for the above-said problem were executed successfully. Different prompting techniques were compared, and Constraint-Based Prompting was identified as the most suitable technique for obtaining a structured engineering solution.
 
 🌟 END OF EXPERIMENT – 5 🌟
-
-📌 Submission note: The AI-generated outputs are representative examples. For a genuine experimental record, execute each prompt separately in ChatGPT and capture the actual responses.
